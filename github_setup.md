@@ -80,7 +80,7 @@ copy the key add add it to
 
 
 
-!\[image text](images/key-img.png)
+!\[image](images/key-img.png)
 
 give a name to the key
 
@@ -89,6 +89,7 @@ give a name to the key
 
 
 DONE
+
 
 
 
